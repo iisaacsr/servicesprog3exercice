@@ -1,2 +1,7 @@
-package org.example.modele;public class ElementNote {
+package org.example.modele;
+
+public class ElementNote {
+
+    double note;
+
 }

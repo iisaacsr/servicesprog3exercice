@@ -1,2 +1,7 @@
-package org.example.Exceptions;public class MauvaiseEpreuve {
+package org.example.Exceptions;
+
+public class MauvaiseEpreuve extends Exception {
+
+
+
 }
